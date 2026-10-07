@@ -1,0 +1,8 @@
+{
+  // Configuração do Cloudflare para o site da Ana (só arquivos estáticos)
+  "name": "anaterapias",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "."
+  }
+}
